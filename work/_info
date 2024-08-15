@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dW:/CACHE NEW
+vCasheController
+Z0 !s110 1722913283
+!i10b 1
+!s100 aM<XcYXXAF0:I6U:ebV:m2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUTMWEjf]TnVJS6^ZJUOfY0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dW:/ITI Grad proj/RISC V with cache integration
+w1722912454
+8W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheController.v
+FW:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheController.v
+!i122 11
+L0 1 117
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1722913282.000000
+!s107 W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\data_memory.v|W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheController.v|W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheMemory.v|W:/ITI Grad proj/RISC V with cache integration/CACHE NEW/top_module.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|W:/ITI Grad proj/RISC V with cache integration/CACHE NEW/top_module.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@cashe@controller
+vCasheMemory
+R0
+!i10b 1
+!s100 I:[FjHFd^HQ1NVf[]LCiL1
+R1
+IF1<Bijh`>W>fz`f@Olz;J3
+R2
+R3
+w1722911816
+8W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheMemory.v
+FW:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheMemory.v
+!i122 11
+L0 1 48
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\data_memory.v|W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheController.v|W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\CasheMemory.v|W:/ITI Grad proj/RISC V with cache integration/CACHE NEW/top_module.v|
+R6
+!i113 1
+R7
+R8
+n@cashe@memory
+vdata_memory
+R0
+!i10b 1
+!s100 IPRazjlSV:ZnU@^O:9^O41
+R1
+IK]aV]b7zgVG9<Q<JS4_L31
+R2
+R3
+w1722911765
+8W:\ITI Grad proj\RISC V with cache integration\CACHE NEW\data_memory.v
+FW:\ITI Grad proj\RISC V with cache integration\CACHE NEW\data_memory.v
+!i122 11
+L0 1 44
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vTopModule
+R0
+!i10b 1
+!s100 n8=iL8P5zWLUn3<_CU`1F2
+R1
+IA:j?Hdb]cDIiR6^imo>W82
+R2
+R3
+w1722913281
+8W:/ITI Grad proj/RISC V with cache integration/CACHE NEW/top_module.v
+FW:/ITI Grad proj/RISC V with cache integration/CACHE NEW/top_module.v
+!i122 11
+L0 5 60
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+n@top@module
